@@ -1,0 +1,15 @@
+.banner-button {
+  padding: 15px 25px 15px 25px;
+  background-color: white;
+  border: 2px solid orange;
+  border-radius: 3px;
+  margin-right: 350px;
+  transition: 0.3s;
+}
+a:visited {
+  text-decoration: none;
+  color:black;
+}
+a:hover {
+  transform: scale(1.5);
+}

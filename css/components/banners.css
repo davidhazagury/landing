@@ -1,0 +1,28 @@
+/* BANNER*/
+.banner {
+  background-image: url(/../../images/toronto.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.banner-info {
+color: white;
+margin-left:140px;
+
+}
+.banner-info h2 {
+color: #FADF63;
+font-size: 100px;
+margin:0px;
+}
+.banner-info p {
+  margin-top: -24px;
+  font-size: 24px;
+  font-family: Open Sans;
+  font-weight: 400;
+}
+}
+
